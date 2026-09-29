@@ -1,0 +1,16 @@
+column,dtype,rows,missing_count,missing_percentage,unique_values
+date,datetime64[ns],76000,0,0.0,760
+store_id,object,76000,0,0.0,5
+product_id,object,76000,0,0.0,20
+units_sold,int64,76000,0,0.0,330
+demand,int64,76000,0,0.0,340
+price,float64,76000,0,0.0,15396
+discount,int64,76000,0,0.0,6
+promotion,int64,76000,0,0.0,2
+competitor_pricing,float64,76000,0,0.0,15963
+inventory_level,int64,76000,0,0.0,1426
+units_ordered,int64,76000,0,0.0,996
+region,object,76000,0,0.0,4
+weather_condition,object,76000,0,0.0,4
+seasonality,object,76000,0,0.0,4
+epidemic,int64,76000,0,0.0,2
