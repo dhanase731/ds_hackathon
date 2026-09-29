@@ -1,0 +1,10 @@
+model,metric,value
+Demand,MAE,46.95012312247536
+Demand,RMSE,62.78155874388916
+Demand,R2,0.9050984523175196
+Demand,MAPE,7.115469273399692
+Stockout,Accuracy,1.0
+Stockout,Precision,1.0
+Stockout,Recall,1.0
+Stockout,F1,1.0
+Stockout,ROC_AUC,1.0
