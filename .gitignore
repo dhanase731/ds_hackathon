@@ -1,0 +1,87 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# =========================
+# Environment / Secrets
+# =========================
+.env
+.env.*
+!.env.example
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Data files
+# =========================
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.parquet
+*.feather
+*.json
+
+# =========================
+# ML Models / Artifacts
+# =========================
+*.pkl
+*.pickle
+*.joblib
+*.h5
+*.hdf5
+*.onnx
+models/
+artifacts/
+
+# =========================
+# Logs
+# =========================
+*.log
+logs/
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# IDE
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# Python tools
+# =========================
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# =========================
+# Temporary files
+# =========================
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# =========================
+# Generated reports
+# =========================
+*.zip
