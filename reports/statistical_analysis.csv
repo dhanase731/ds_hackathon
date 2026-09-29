@@ -1,0 +1,6 @@
+Analysis,Test,Statistic,P_Value,Result
+Promotion vs Demand,Welch T-Test,74.3362,0.0,Significant
+Weather vs Demand,One-Way ANOVA,842.5558,0.0,Significant
+Discount vs Demand,Pearson Correlation,0.2247,0.0,Significant
+Price Difference vs Demand,Pearson Correlation,0.0022,0.544952700967674,Not Significant
+Weekend vs Weekday Demand,Welch T-Test,0.9496,0.3423017379401023,Not Significant
