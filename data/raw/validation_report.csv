@@ -1,0 +1,12 @@
+Metric,Value
+Source rows,76000
+Transactions rows,76000
+Inventory rows,76000
+Products rows,20
+Stores rows,5
+External factor rows,3800
+Unique dates,760
+Unique stores,5
+Unique products,20
+Missing values in source,0
+Unique Date-Store-Product rows,76000

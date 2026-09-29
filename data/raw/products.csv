@@ -1,0 +1,21 @@
+Product ID,Observed Categories,Category Counts,Category Consistent
+P0001,Electronics; Groceries; Toys,Electronics:760; Groceries:2280; Toys:760,No
+P0002,Clothing; Electronics; Groceries; Toys,Clothing:760; Electronics:760; Groceries:1520; Toys:760,No
+P0003,Clothing; Electronics; Furniture; Groceries; Toys,Clothing:760; Electronics:760; Furniture:760; Groceries:760; Toys:760,No
+P0004,Electronics; Groceries,Electronics:760; Groceries:3040,No
+P0005,Clothing; Electronics; Groceries; Toys,Clothing:760; Electronics:760; Groceries:1520; Toys:760,No
+P0006,Clothing; Groceries; Toys,Clothing:760; Groceries:1520; Toys:1520,No
+P0007,Groceries; Toys,Groceries:3040; Toys:760,No
+P0008,Clothing; Electronics; Furniture; Groceries,Clothing:760; Electronics:760; Furniture:760; Groceries:1520,No
+P0009,Clothing; Groceries,Clothing:1520; Groceries:2280,No
+P0010,Furniture; Groceries,Furniture:760; Groceries:3040,No
+P0011,Clothing; Electronics; Furniture; Groceries,Clothing:760; Electronics:1520; Furniture:760; Groceries:760,No
+P0012,Electronics; Furniture; Groceries,Electronics:1520; Furniture:1520; Groceries:760,No
+P0013,Groceries; Toys,Groceries:3040; Toys:760,No
+P0014,Electronics; Furniture; Groceries,Electronics:760; Furniture:1520; Groceries:1520,No
+P0015,Clothing; Furniture; Groceries; Toys,Clothing:760; Furniture:760; Groceries:1520; Toys:760,No
+P0016,Clothing; Electronics; Furniture; Groceries; Toys,Clothing:760; Electronics:760; Furniture:760; Groceries:760; Toys:760,No
+P0017,Clothing; Furniture; Toys,Clothing:760; Furniture:760; Toys:2280,No
+P0018,Clothing; Furniture; Groceries,Clothing:1520; Furniture:1520; Groceries:760,No
+P0019,Clothing; Furniture; Groceries,Clothing:1520; Furniture:1520; Groceries:760,No
+P0020,Clothing; Furniture; Toys,Clothing:760; Furniture:2280; Toys:760,No
